@@ -1,2 +1,2 @@
-# Emotion_detection_ML
+# Emotion_detection
 Simple emotion detection using machine learning
